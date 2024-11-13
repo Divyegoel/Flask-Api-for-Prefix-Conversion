@@ -19,8 +19,8 @@ This project provides a **Flask API** for evaluating **prefix expressions**. Pre
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-directory>
+git clone https://github.com/Divyegoel/Flask-Api-for-Prefix-Conversion
+cd Flask-Api-for-Prefix-Conversion
 ```
 
 ### 2. Create a Virtual Environment (Optional but recommended)
