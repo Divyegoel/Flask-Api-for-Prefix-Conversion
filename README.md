@@ -59,7 +59,7 @@ json
   "result": 15
 }
 ```
-### Note: Please have spaces between the input like + 9 * 2 3
+### Note: Please have spaces between the input like "+ 9 * 2 3"
 ## Examples:
 
 - **Input**: `+ 9 * 2 3`
